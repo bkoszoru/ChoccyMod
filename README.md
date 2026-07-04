@@ -1,10 +1,14 @@
+<img width="3191" height="1693" alt="IMG_1816" src="https://github.com/user-attachments/assets/f04a2b40-3ec8-4db3-9f0a-5880c9a56976" />
+
 # ChoccyMod
 
 Mechanical switch keybed rebuild for the original Teenage Engineering OP-1.
 
 ## Overview
 
-- **Goal:** Replace failing flex PCB, restore dead keys, improve key feel.
+The Op-1 has some critical manufacturing flaws that render the keybeds useless after a while, and TE no longer provides replacement parts. I'm making that replacement.
+
+- **Goal:** Permanent fix for failing keybeds. Also improve key feel, improve repairability, and open source the fix.
 - **Status:** [in progress]
 
 ## BOM (IN PROGRESS)
