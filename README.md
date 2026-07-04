@@ -18,6 +18,7 @@ The Op-1 has manufacturing flaws that render the keybeds useless after a while, 
 |   ChoccyMod PCB   |   1  |    Buy    |    Will set up direct order from JLCPCB.   |
 |   ChoccyMod BackPlate   |   1  |    Make    |    STL's privided here to print at home.   |
 |   ChoccyMod TopPlate   |   1  |    Make    |    STL's privided here to print at home.   |
+|   ChoccyMod Keycap Adapter   |   60  |    Make    |    STL's privided here to print at home.   |
 |   FFC Cable: 100mm length, 28 pin, 1mm pitch, forward orientation  |   2  |    Buy    |    Available on Ebay, Ali Express, etc.   |
 |   1.7mm countersink screws, 5mm length   |   12  |    Buy    |    Available on Ali Express   |
 
