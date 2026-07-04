@@ -6,7 +6,7 @@ Mechanical switch keybed rebuild for the original Teenage Engineering OP-1. Join
 
 ## Overview
 
-The Op-1 has manufacturing flaws that render the keybeds useless after a while, and TE no longer provides replacement parts. I'm making that replacement. This is not a reverse-engineer of the original part, but a ground-up redesign.
+The Op-1 has manufacturing flaws that render the keybeds useless after a while, and TE no longer provides replacement parts. I'm making that replacement so that people can keep on making music! This is not a reverse-engineer of the original part, but a ground-up redesign.
 
 - **Goal:** Permanent fix for failing keybeds. Also improve key feel, improve repairability, and open source the fix.
 - **Status:** [in progress]
