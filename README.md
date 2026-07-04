@@ -21,7 +21,23 @@ The Op-1 has manufacturing flaws that render the keybeds useless after a while, 
 |   FFC Cable: 100mm length, 28 pin, 1mm pitch, forward orientation  |   2  |    Buy    |    Available on Ebay, Ali Express, etc.   |
 |   1.7mm countersink screws, 5mm length   |   12  |    Buy    |    Available on Ali Express   |
 
-
 ## License
 
-[MIT]
+This project (hardware designs, firmware, and documentation) is released
+under a modified MIT license — see [LICENSE](https://github.com/bkoszoru/ChoccyMod/blob/main/README.md#license) for full terms.
+
+**TL;DR** (not a substitute for the actual license):
+
+- ✅ Free to use, modify, build, and sell for personal projects, hobbyist/maker
+  use, and small-scale commercial use.
+- ✅ Fork it, remix it, improve it — just keep the copyright notice attached.
+- 🚫 Any entity with more than $100,000 in annual revenue **cannot
+  mass-produce or sell products based on this design** without getting
+  written permission from me first.
+- 🚫 You can't dodge this by tweaking the design slightly and calling it
+  "different."
+
+This isn't an OSI-approved open source license because of the commercial
+restriction above — it's closer to "open for makers, closed for corporations."
+If you're unsure whether you qualify, or want a commercial license, open an
+issue or reach out directly.
