@@ -1,21 +1,35 @@
-MIT License
+MIT License (Modified for Hardware + Commercial Restriction)
 
 Copyright (c) 2026 bkoszoru
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Permission is hereby granted, free of charge, to any person or organization
+obtaining a copy of this software, firmware, hardware design files,
+schematics, PCB layouts, mechanical designs, bills of materials, and
+associated documentation (collectively, the "Work"), to use, copy, modify,
+merge, publish, and distribute the Work, and to permit persons to whom the
+Work is furnished to do so, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. The above copyright notice and this permission notice shall be included
+   in all copies or substantial portions of the Work, including any
+   manufactured hardware derived from it (e.g. via silkscreen, packaging,
+   or accompanying documentation where physically practical).
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+2. COMMERCIAL MANUFACTURING RESTRICTION: Any individual or entity may use,
+   modify, and manufacture the Work for personal, educational, or small-scale
+   commercial purposes. However, any entity with annual gross revenue
+   exceeding USD $100,000 may NOT manufacture, mass-produce, sell, or
+   sublicense products substantially derived from the Work without
+   obtaining prior written permission from the copyright holder.
+
+3. This restriction applies to derivative hardware designs as well as
+   direct reproductions; a company may not circumvent it through minor
+   modifications intended to avoid substantial similarity to the original
+   Work.
+
+THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+OUT OF OR IN CONNECTION WITH THE WORK OR THE USE OR OTHER DEALINGS IN THE
+WORK.
