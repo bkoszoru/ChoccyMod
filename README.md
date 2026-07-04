@@ -15,7 +15,7 @@ Mechanical switch keybed rebuild for the original Teenage Engineering OP-1.
 |   ChoccyMod BackPlate   |   1  |    Make    |    STL's privided here to print at home.   |
 |   ChoccyMod TopPlate   |   1  |    Make    |    STL's privided here to print at home.   |
 |   FFC Cable: 100mm length, 28 pin, 1mm pitch, forward orientation  |   2  |    Buy    |    Available on Ebay, Ali Express, etc.   |
-|   1.7mm countersink screws, 5mm length   |   2  |    Buy    |    Available on Ali Express   |
+|   1.7mm countersink screws, 5mm length   |   12  |    Buy    |    Available on Ali Express   |
 
 
 ## License
