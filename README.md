@@ -42,3 +42,7 @@ This isn't an OSI-approved open source license because of the commercial
 restriction above — it's closer to "open for makers, closed for corporations."
 If you're unsure whether you qualify, or want a commercial license, open an
 issue or reach out directly.
+
+
+## Support the project
+If ChoccyMod helped you, you can [tip me on Ko-fi](https://ko-fi.com/surfacenormal). Totally optional.
